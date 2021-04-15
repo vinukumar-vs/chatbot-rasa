@@ -1,0 +1,23 @@
+{
+  "name": "chatbot-rasa",
+  "version": "1.0.0",
+  "description": "RASA POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vinukumar-vs/chatbot-rasa.git"
+  },
+  "keywords": [
+    "chatbot",
+    "rasa"
+  ],
+  "author": "Vinu Kumar V S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinukumar-vs/chatbot-rasa/issues"
+  },
+  "homepage": "https://github.com/vinukumar-vs/chatbot-rasa#readme"
+}
