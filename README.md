@@ -2,4 +2,4 @@
 RASA for chatbot
 
 
-Testing Git commit message hook
+Testing Git commit message hook not working
